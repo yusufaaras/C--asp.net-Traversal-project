@@ -1,0 +1,15 @@
+C:\DTOLayer\bin\Release\net7.0\DTOLayer.deps.json
+C:\DTOLayer\bin\Release\net7.0\DTOLayer.dll
+C:\DTOLayer\bin\Release\net7.0\DTOLayer.pdb
+C:\DTOLayer\bin\Release\net7.0\EntityLayer.dll
+C:\DTOLayer\bin\Release\net7.0\EntityLayer.pdb
+C:\DTOLayer\obj\Release\net7.0\DTOLayer.csproj.AssemblyReference.cache
+C:\DTOLayer\obj\Release\net7.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\DTOLayer\obj\Release\net7.0\DTOLayer.AssemblyInfoInputs.cache
+C:\DTOLayer\obj\Release\net7.0\DTOLayer.AssemblyInfo.cs
+C:\DTOLayer\obj\Release\net7.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\DTOLayer\obj\Release\net7.0\DTOLayer.csproj.CopyComplete
+C:\DTOLayer\obj\Release\net7.0\DTOLayer.dll
+C:\DTOLayer\obj\Release\net7.0\refint\DTOLayer.dll
+C:\DTOLayer\obj\Release\net7.0\DTOLayer.pdb
+C:\DTOLayer\obj\Release\net7.0\ref\DTOLayer.dll
